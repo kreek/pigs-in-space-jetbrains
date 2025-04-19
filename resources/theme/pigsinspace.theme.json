@@ -2,7 +2,7 @@
   "name": "Pigs in Space",
   "dark": true,
   "author": "Your Name",
-  "editorScheme": "/themes/PigsInSpaceScheme.xml",
+  "editorScheme": "/theme/PigsInSpaceScheme.xml",
   "ui": {
     "*": {
       "background": "#2D333A",
