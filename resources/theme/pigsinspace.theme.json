@@ -1,0 +1,45 @@
+{
+  "name": "Pigs in Space",
+  "dark": true,
+  "author": "Your Name",
+  "editorScheme": "/themes/PigsInSpaceScheme.xml",
+  "ui": {
+    "*": {
+      "background": "#2D333A",
+      "foreground": "#90A0B1",
+      "selectionBackground": "#373f47",
+      "selectionForeground": "#DFD890"
+    },
+    "Panel.background": "#24282e",
+    "EditorPane.background": "#2D333A",
+    "EditorPane.foreground": "#90A0B1",
+    "Editor.background": "#2D333A",
+    "Editor.foreground": "#90A0B1",
+    "Editor.selectionBackground": "#373f47",
+    "Editor.selectionForeground": "#DFD890",
+    "Editor.lineHighlightBackground": "#262b31",
+    "EditorLineNumber.foreground": "#404953",
+    "SidePanel.background": "#24282e",
+    "SidePanel.foreground": "#90A0B1",
+    "StatusBar.background": "#24282e",
+    "StatusBar.foreground": "#90A0B1",
+    "ActionButton.hoverBackground": "#30353d",
+    "Button.startBackground": "#24282e",
+    "Button.endBackground": "#24282e",
+    "Button.foreground": "#90A0B1",
+    "Tab.inactiveBackground": "#24282e",
+    "Tab.selectedBackground": "#2D333A",
+    "Tab.borderColor": "#2D333A",
+    "ScrollBar.thumbColor": "#373f47",
+    "ScrollBar.thumbBorderColor": "#3a424b"
+  },
+  "icons": {
+    "ColorPalette": {
+      "Actions.Grey": "#90A0B1",
+      "Actions.Red": "#FF5370",
+      "Actions.Yellow": "#DFD890",
+      "Actions.Green": "#A5C25C",
+      "Actions.Blue": "#82AAFF"
+    }
+  }
+}

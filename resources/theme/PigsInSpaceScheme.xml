@@ -1,0 +1,92 @@
+<scheme name="Pigs in Space" version="142" parent_scheme="Darcula">
+  <metaInfo>
+    <property name="ide">idea</property>
+    <property name="ideVersion">2025.1.0.0</property>
+    <property name="originalScheme">Pigs in Space</property>
+  </metaInfo>
+
+  <colors>
+    <option name="CARET_ROW_COLOR" value="262b31" />
+    <option name="CONSOLE_BACKGROUND_KEY" value="2D333A" />
+    <option name="GUTTER_BACKGROUND" value="2D333A" />
+    <option name="LINE_NUMBERS_COLOR" value="404953" />
+    <option name="SELECTION_BACKGROUND" value="373f47" />
+    <option name="SELECTION_FOREGROUND" value="DFD890" />
+    <option name="INDENT_GUIDE" value="353c42" />
+    <option name="SELECTED_INDENT_GUIDE" value="454a4e" />
+  </colors>
+
+  <attributes>
+    <!-- Comments -->
+    <option name="DEFAULT_BLOCK_COMMENT">
+      <value>
+        <option name="FOREGROUND" value="535E6B" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="DEFAULT_LINE_COMMENT">
+      <value>
+        <option name="FOREGROUND" value="535E6B" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+
+    <!-- Keywords -->
+    <option name="DEFAULT_KEYWORD">
+      <value>
+        <option name="FOREGROUND" value="A2758A" />
+      </value>
+    </option>
+
+    <!-- Strings -->
+    <option name="DEFAULT_STRING">
+      <value>
+        <option name="FOREGROUND" value="A5C25C" />
+      </value>
+    </option>
+
+    <!-- Numbers -->
+    <option name="DEFAULT_NUMBER">
+      <value>
+        <option name="FOREGROUND" value="B3644D" />
+      </value>
+    </option>
+
+    <!-- Variables -->
+    <option name="DEFAULT_IDENTIFIER">
+      <value>
+        <option name="FOREGROUND" value="90A0B1" />
+      </value>
+    </option>
+
+    <!-- Function calls -->
+    <option name="DEFAULT_FUNCTION_CALL">
+      <value>
+        <option name="FOREGROUND" value="FFC66D" />
+      </value>
+    </option>
+
+    <!-- Class names -->
+    <option name="DEFAULT_CLASS_NAME">
+      <value>
+        <option name="FOREGROUND" value="899CAA" />
+      </value>
+    </option>
+
+    <!-- Constants -->
+    <option name="DEFAULT_CONSTANT">
+      <value>
+        <option name="FOREGROUND" value="4C9C9D" />
+      </value>
+    </option>
+
+    <!-- Invalid -->
+    <option name="DEFAULT_INVALID_STRING_ESCAPE">
+      <value>
+        <option name="FOREGROUND" value="FF5370" />
+        <option name="EFFECT_COLOR" value="FF5370" />
+        <option name="EFFECT_TYPE" value="2" />
+      </value>
+    </option>
+  </attributes>
+</scheme>
